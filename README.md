@@ -1,7 +1,7 @@
-**Swipe Sense “Bin Buddy”
-A motion-activated trash can built for hygiene, accessibility, and embedded control experimentation**
+# Swipe Sense “Bin Buddy”
+## A motion-activated trash can built for hygiene, accessibility, and embedded control experimentation
 
-**Why I Built This:**
+### Why I Built This:
 
 I created Bin Buddy as a simple yet meaningful embedded systems project that bridges real-world usability with microcontroller-based automation.
 
@@ -9,7 +9,7 @@ The idea came from everyday frustration — having to touch garbage can lids in 
 
 Beyond convenience, this project became an opportunity to explore sensor integration, real-time control, and firmware optimization on the Arduino platform. I wanted to see how far a small embedded system could go in balancing response time, power efficiency, and cost-effective design — all while keeping the system intuitive and manufacturable.
 
-**What It Demonstrates:**
+### What It Demonstrates:
 
 -Ultrasonic sensing for distance detection
 
@@ -21,7 +21,7 @@ Beyond convenience, this project became an opportunity to explore sensor integra
 
 -A foundation for scalable IoT or smart home integration
 
-**Design Goals:**
+### Design Goals:
 
 -<b>Hygiene</b>: No-touch operation to reduce germ spread
 
